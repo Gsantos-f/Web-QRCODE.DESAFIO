@@ -1,0 +1,17 @@
+@media (max-width: 375px) {
+    .subtitle p{
+        font-size: 10px;
+    }
+    .attribution {
+        font-size: 8px;
+    }
+    .title p{
+        font-size: 19px;
+    }
+    .box .qr-code img{
+        height: 240px; 
+    }
+    .box2{
+        width: 270px;
+    }
+}
