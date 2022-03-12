@@ -3,7 +3,7 @@
 <p> ▣ PT-BR: Nesse desafio tive que criar um simples site em html e css, com o objetivo de criar um card com Qr-code e descrição.</p></br>
 <p> ▣ EN-US: In this challenge I had to create a simple website in html and css, with the objective of creating a card with Qr-code and description.</p>
 
-PAGE: 
+PAGE: https://gsantos-f.github.io/Web-QRCODE.DESAFIO/
 
  ## ◉ 💻Technologies
  ▣ HTML</br>
